@@ -12,5 +12,5 @@ spring:
   application:
     name: product-server
     
-env: dev
+env: test
 branch: master
