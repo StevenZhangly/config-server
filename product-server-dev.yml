@@ -12,4 +12,4 @@ spring:
     name: product-server
     
 env: dev
-branch: master
+branch: test
